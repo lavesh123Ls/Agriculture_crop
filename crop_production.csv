@@ -1,0 +1,11 @@
+State,Crop,Season,Area,Cost,Production
+UP,Wheat,Rabi,100,50000,2000
+UP,Rice,Kharif,120,60000,2500
+Punjab,Wheat,Rabi,150,75000,3200
+Punjab,Rice,Kharif,130,70000,2900
+MP,Wheat,Rabi,90,45000,1800
+MP,Rice,Kharif,110,55000,2200
+Bihar,Wheat,Rabi,95,48000,1900
+Bihar,Rice,Kharif,105,52000,2100
+Haryana,Wheat,Rabi,140,72000,3000
+Haryana,Rice,Kharif,125,68000,2700
